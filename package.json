@@ -1,0 +1,18 @@
+{
+  "name": "geojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js cities.txt output",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^16.4.1",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
